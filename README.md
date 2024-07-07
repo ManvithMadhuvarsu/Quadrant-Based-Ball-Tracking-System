@@ -17,6 +17,14 @@ Select Input Video: Choose an MP4 video file containing the balls to track.
 Define Quadrants: Click to define each quadrant on the video frame.
 Process Video: Generate a processed video with tracked balls and save event logs.
 
+# Input                            
+
+![WhatsApp Image 2024-07-08 at 04 36 37_cbe9bcca](https://github.com/ManvithMadhuvarsu/Quadrant-Based-Ball-Tracking-System/assets/134702597/9c11b031-c218-4e1f-a3a4-4c979502bdda)
+
+# Output
+
+![WhatsApp Image 2024-07-08 at 04 36 37_1663f2e4](https://github.com/ManvithMadhuvarsu/Quadrant-Based-Ball-Tracking-System/assets/134702597/500e44ef-cb70-45f8-aa3a-0eed9085bfa9)
+
 # Installation
 Clone the repository:
 ```
